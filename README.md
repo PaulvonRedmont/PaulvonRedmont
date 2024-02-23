@@ -1,5 +1,6 @@
 # About Me
 Class of 2027, Stanford OHS
+
 Currently researching synthetic data generation and various VPT models
 
 ## Interests
