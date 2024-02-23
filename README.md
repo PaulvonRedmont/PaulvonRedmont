@@ -12,7 +12,8 @@ Automation
 
 Image recognition and classification
 
-Data structures and algorithms
+Optical character recognition (OCR)
 
+Data structures and algorithms
 
 © 2024 Paul of Redmont
