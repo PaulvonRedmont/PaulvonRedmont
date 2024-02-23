@@ -1,11 +1,8 @@
 # About Me
-I'm a freshman at Stanford OHS, class of 2027
-I'm primarily interested in 
+Class of 2027, Stanford OHS
+Currently researching synthetic data generation and various VPT models
 
 ## Interests
 I'm primarily interested in Artificial Intelligence, automation, and data structures and algorithms.
 
-## Contact Me
-
-
-© 2024 [Your Name]
+© 2024 Paul of Redmont
