@@ -1,12 +1,11 @@
 # About Me
-
-## Introduction
-Hi, my name is [Your Name]. I'm a [Your Profession] based in [Your Location].
+I'm a freshman at Stanford OHS, class of 2027
+I'm primarily interested in 
 
 ## Interests
-I'm interested in [Your Interests]. In my free time, I enjoy [Your Hobbies or Activities].
+I'm primarily interested in Artificial Intelligence, automation, and data structures and algorithms.
 
 ## Contact Me
-You can reach me at [Your Email Address].
+
 
 © 2024 [Your Name]
