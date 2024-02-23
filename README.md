@@ -1,18 +1,18 @@
 ## About Me
-Class of 2027, Stanford OHS
+Class of 2027, Stanford OHS :student:
 
-Currently researching synthetic data generation and various VPT models
+Currently researching synthetic data generation and various VPT models :computer:
 
 ## Interests
-Artificial Intelligence (isn't everyone these days lol)
+Artificial Intelligence (isn't everyone these days lol) :robot:
 
-Machine Learning
+Machine Learning 
 
 Automation
 
-Image recognition and classification
+Image recognition and classification :camera:
 
-Optical character recognition (OCR)
+Optical character recognition (OCR) 
 
 Data structures and algorithms
 
