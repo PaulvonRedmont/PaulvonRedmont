@@ -2,7 +2,7 @@
 
 ## About Me 
 - Class of 2027, Stanford OHS :student:
-- Nein, ich bin kein Deutscher
+- Nein, ich bin kein Deutscher 🇩🇪
 - Currently researching synthetic data generation and various VPT models :computer:
 - My best work is hidden fr lol
 
