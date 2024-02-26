@@ -15,11 +15,13 @@
 
 ## 🚀 Projects
 
-Here are some projects I've worked on:
+Here are some projects I've worked on (although most of my more impressive and useful work is closed source): 
 
 Redmont Client (RL-Powered ML bot for Amazon Alexa's Knight Manager): https://github.com/PaulvonRedmont/Redmont-Client
-
-
+Automatic MLA-Formatter （it does exactly what you think it does): https://github.com/PaulvonRedmont/Automatic-MLA-Formatter
+Evernote Tag Renaming Macro (allows users to batch rename their tags on Evernote, as this is not built in to the software): https://github.com/PaulvonRedmont/Evernote-Tag-Renaming-Macro
+Image Cataloger Macro (runs OCR on the image you select in Windows File Manager. This was more of an experiment with how OCR can scale to massive amounts of text): https://github.com/PaulvonRedmont/Image-Cataloger-Macro
+Discord Counting Bots (simple scripts that allows users to bot counting in a counting channel): https://github.com/PaulvonRedmont/Auto-Counter-for-Discord-Server
 
 ## 📊 GitHub Stats
 
