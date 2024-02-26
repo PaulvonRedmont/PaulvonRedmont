@@ -16,7 +16,7 @@
 
 ## 🚀 Projects
 
-Here are some projects I've worked on (although most of my more impressive and useful work is closed source): 
+Here are some projects I've worked on (although most of my more impressive and useful work is closed source and/or completely lost in the digital void): 
 
 Redmont Client (RL-Powered ML bot for Amazon Alexa's Knight Manager):  
 [GitHub Repository](https://github.com/PaulvonRedmont/Redmont-Client)
