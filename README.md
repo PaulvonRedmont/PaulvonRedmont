@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm PaulusVonRedmont!
 
-## About Me
+## About Me 
 - Class of 2027, Stanford OHS :student:
 - Currently researching synthetic data generation and various VPT models :computer:
 - My best work is hidden fr lol
