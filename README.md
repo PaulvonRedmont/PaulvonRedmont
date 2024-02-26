@@ -17,6 +17,8 @@
 
 Here are some projects I've worked on:
 
+Redmont Client (RL-Powered ML bot for Amazon Alexa's Knight Manager): https://github.com/PaulvonRedmont/Redmont-Client
+
 
 
 ## 📊 GitHub Stats
