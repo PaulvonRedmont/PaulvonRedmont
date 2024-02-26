@@ -22,7 +22,6 @@ Redmont Client (RL-Powered ML bot for Amazon Alexa's Knight Manager):
 [GitHub Repository](https://github.com/PaulvonRedmont/Redmont-Client)
 
 Github Pull Shark Bot (Allows users to get the Pull Shark Achievement by totally legit means):
-
 [GitHub Repository](https://github.com/PaulvonRedmont/Pull-Shark-Bot)
 
 Automatic MLA Formatter (automates MLA formatting tasks):  
