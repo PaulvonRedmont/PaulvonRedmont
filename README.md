@@ -25,3 +25,4 @@ Redmont Client (RL-Powered ML bot for Amazon Alexa's Knight Manager): https://gi
 
 ![Paul von Redmont's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PaulvonRedmont&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulvonRedmont&layout=compact)](https://github.com/your_username/github-readme-stats)
