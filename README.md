@@ -34,7 +34,7 @@ Discord Counting Bots (simple scripts for counting in Discord channels):
 [GitHub Repository](https://github.com/PaulvonRedmont/Auto-Counter-for-Discord-Server)
 
 ## 📊 GitHub Stats
-                                        [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulvonRedmont)](https://github.com/anuraghazra/github-readme-stats)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulvonRedmont)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulvonRedmont&layout=compact)](https://github.com/your_username/github-readme-stats)
