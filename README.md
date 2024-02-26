@@ -4,7 +4,7 @@
 - Class of 2027, Stanford OHS :student:
 - Nein, ich bin kein Deutscher 🇩🇪
 - Currently researching synthetic data generation and various VPT models :computer:
-- My best work is hidden fr lol
+- My old GitHub account was deleted, so most of my best work is long gone lol
 
 ## Interests
 - Artificial Intelligence (isn't everyone these days lol) :robot:
