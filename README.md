@@ -1,7 +1,7 @@
-# 👋 Hi there, I'm PaulusVonRedmont!
+# 👋 Hi there, I'm [REDACTED]!
 
 ## About Me 
-- Class of 2027, Stanford OHS :student:
+- Class of [REDACTED], Stanford OHS :student:
 - Nein, ich bin kein Deutscher 🇩🇪
 - Currently researching synthetic data generation and various VPT models :computer:
 - My old GitHub account was deleted, so most of my best work is long gone lol
@@ -13,6 +13,7 @@
 - Image recognition and classification :camera:
 - Optical character recognition (OCR) 
 - Data structures and algorithms
+- [REDACTED]
 
 ## 🚀 Projects
 
