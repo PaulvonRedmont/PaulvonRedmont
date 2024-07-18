@@ -13,3 +13,5 @@ My interests:
 <a href="https://github.com/PaulvonRedmont/github-readme-stats">
   <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulvonRedmont&layout=donut-vertical&card_width=320&theme=gruvbox" />
 </a>
+
+Oh wow I need to write more js, don't I?
