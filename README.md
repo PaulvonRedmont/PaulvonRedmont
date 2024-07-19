@@ -7,7 +7,7 @@ My interests:
 - OCR
 - Bots of any kind
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/PaulvonRedmont/github-readme-stats">
   <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=PaulvonRedmont&show_icons=true&theme=gruvbox" />
 </a>
 <a href="https://github.com/PaulvonRedmont/github-readme-stats">
