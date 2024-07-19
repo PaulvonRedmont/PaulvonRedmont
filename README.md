@@ -1,5 +1,7 @@
 Stanford OHS, Class of 2027
-Primarily self-taught programmer
+
+Primarily a self-taught programmer
+
 Most of my repos are just random things I wrote when I should have been paying attention in class, so I do apologize for the general pure chaos of it all.
 
 My interests:
